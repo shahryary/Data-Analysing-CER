@@ -1,9 +1,12 @@
 # Data-Analysing-CER
-Data Analysing "CER Smart Metering Project" in R language
-Plesae Read this file.
 
-# mergin files into one file
-# DO this using "cat File1.txt File2.txt File3.txt File4.txt File5.txt File6.txt > catFiles.txt"
+Data Analysing "CER Smart Metering Project" in R language.
+You can find Data-set and information here:
+
+Plesae Read this file.
+mergin files into one file
+
+<h3>Do this using "cat File1.txt File2.txt File3.txt File4.txt File5.txt File6.txt > catFiles.txt"</h3>
 
 To Run Scripts please follow  this steps:
 
