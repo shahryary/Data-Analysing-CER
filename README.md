@@ -13,11 +13,9 @@ To Run Scripts please follow  this steps:<br/>
 
 1- Run "Packages.R" - This file will be install required package.
 
-<br/>
 2- Split.R- will do split all data file to csv file according to the your input <br/>
   - you have run this file JUST ONE TIME - if you want to special date-time you can re-excute this script.
 
-<br/>
 3- ReFormatingData.R - will be transform all data into readable format ( data-time,...)
   - you have run this file JUST ONE TIME - more additional information commented.
 
@@ -29,10 +27,8 @@ To Run Scripts please follow  this steps:<br/>
 ###### AnalyseData_01.R is giving overview about over data, also:
 - in this file we can calculate mean kWh consumption for evening peak 16:00 - 19:00 (or your peak time)
 
-<br/>
 - run acf test for selected house.
 
-<br/>
 - run pacf test for selected house.
 
 <br/>
@@ -44,9 +40,8 @@ To Run Scripts please follow  this steps:<br/>
 
 #####RandomForest.R contents this methods:
 - EVTREE (Evoluationary Learning)
-<br/>
 - using varSelRF package to calculate RF
-<br/>
 - CoreModel by using CORElearn
 <br/>
+
 #####File Manifest - Smart Meter Electricity Trial Data v1.0.1 & document.pdf maybe useful.
